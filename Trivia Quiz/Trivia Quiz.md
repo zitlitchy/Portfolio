@@ -1,4 +1,4 @@
-## Assignment 2 - Trivia Quiz Challenge
+## Trivia Quiz Challenge
 Each user can choose questions from 11 categories from the Open Trivia Database.
 Each user have to answer 10 questions each time. 
 They have 3 hints for each game, where 2 incorrect answer will be elimiated from the answers.
